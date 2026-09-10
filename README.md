@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Md Rashid Aman
 
-<!--
-**RashidAman07/RashidAman07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Software Developer | Full-Stack Development
 
-Here are some ideas to get you started:
+I'm a BCA graduate from India, currently building my skills in full-stack development and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating practical projects, learning new technologies, and improving my problem-solving skills through hands-on development.
+
+---
+
+## 🚀 About Me
+
+- 🎓 BCA Graduate
+- 💻 Aspiring Software Developer
+- 🌐 Learning Full-Stack Development
+- 🔨 Building real-world projects
+- 📚 Currently improving my JavaScript, React, Python and SQL skills
+- 🔗 Learning REST APIs and Git/GitHub
+- 🎯 Goal: Become a skilled Software Developer
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Backend & Programming
+- Python
+- REST APIs
+
+### Database
+- SQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🌟 Featured Project
+
+### 🔎 Hunter — Job & Internship Finder
+
+A web platform designed to help users discover jobs and internships using useful search and filtering features.
+
+**Technologies:** HTML • CSS • JavaScript
+
+🔗 Check out the project in my repositories.
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Full-Stack Development
+        ↓
+JavaScript
+        ↓
+React
+        ↓
+REST APIs
+        ↓
+Python
+        ↓
+SQL
+        ↓
+Git & GitHub
